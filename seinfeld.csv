@@ -1,0 +1,173 @@
+Season,Episode,Title,Rating,Votes
+1,2,The Stakeout,7.8,649
+1,3,The Robbery,7.7,565
+1,4,Male Unbonding,7.6,561
+1,5,The Stock Tip,7.8,541
+2,1,The Ex-Girlfriend,7.7,529
+2,1,The Statue,8.1,509
+2,11,The Heart Attack,8,512
+2,12,The Revenge,8.4,497
+2,13,The Deal,8.3,515
+2,2,The Pony Remark,8,573
+2,3,The Busboy,7.9,500
+2,4,The Baby Shower,7.8,504
+2,5,The Jacket,8.5,560
+2,6,The Chinese Restaurant,8.7,656
+2,7,The Phone Message,8.5,544
+2,8,The Apartment,8,497
+3,1,The Note,8.3,512
+3,1,The Stranded,7.5,543
+3,11,The Alternate Side,8.4,471
+3,12,The Red Dot,8.5,480
+3,13,The Subway,8.7,513
+3,14,The Pez Dispenser,8.6,485
+3,15,The Suicide,7.8,418
+3,16,The Fix Up,8.3,452
+3,17,The Boyfriend: Part 1,8.6,539
+3,18,The Boyfriend: Part 2,8.7,483
+3,19,The Limo,8.6,591
+3,2,The Truth,7.8,466
+3,2,The Good Samaritan,8.1,442
+3,21,The Letter,8,429
+3,22,The Parking Space,8.5,472
+3,23,The Keys,8.6,443
+3,3,The Pen,8.3,527
+3,4,The Dog,7.3,487
+3,5,The Library,8.7,610
+3,6,The Parking Garage,8.5,613
+3,7,The Cafe,8.5,476
+3,8,The Tape,8.6,485
+3,9,The Nose Job,8.1,487
+4,1,The Trip: Part 1,8.4,467
+4,1,The Virgin,8.3,455
+4,11,The Contest,8.7,1194
+4,12,The Airport,8.5,536
+4,13,The Pick,8.6,464
+4,14,The Movie,8.3,442
+4,15,The Visa,8.2,401
+4,16,The Shoes,8.4,410
+4,17,The Outing,8.5,681
+4,18,The Old Man,8.4,447
+4,19,The Implant,8.7,467
+4,2,The Trip: Part 2,8.6,451
+4,2,The Junior Mint,8.5,504
+4,21,The Smelly Car,8.7,464
+4,22,The Handicap Spot,8.4,419
+4,23,The Pilot,8.5,517
+4,3,The Pitch,8.7,450
+4,4,The Ticket,8.6,413
+4,5,The Wallet,8.1,408
+4,6,The Watch,8.2,407
+4,7,The Bubble Boy,8.7,547
+4,8,The Cheever Letters,8.4,447
+4,9,The Opera,8.3,439
+5,1,The Mango,8.6,454
+5,1,The Cigar Store Indian,8.4,437
+5,11,The Conversion,8.1,388
+5,12,The Stall,8.6,435
+5,13,The Dinner Party,8.3,395
+5,14,The Marine Biologist,8.4,654
+5,15,The Pie,8.5,405
+5,16,The Stand-In,7.9,374
+5,17,The Wife,8,389
+5,18,The Raincoats,8.5,404
+5,19,The Fire,8.7,462
+5,2,The Puffy Shirt,8.4,530
+5,2,The Hamptons,8.4,530
+5,21,The Opposite,8.5,732
+5,3,The Glasses,8.3,413
+5,4,The Sniffing Accountant,8.2,391
+5,5,The Bris,8.1,439
+5,6,The Lip Reader,8.5,424
+5,7,The Non-Fat Yogurt,8.5,443
+5,8,The Barber,8.3,412
+5,9,The Masseuse,8,392
+6,1,The Chaperone,8.1,377
+6,1,The Race,8.4,509
+6,11,The Switch,8.4,500
+6,12,The Label Maker,8.6,357
+6,13,The Scofflaw,8.2,360
+6,14,Highlights of a Hundred,7.5,286
+6,15,The Beard,8.4,342
+6,16,The Kiss Hello,8.2,353
+6,17,The Doorman,8.5,387
+6,18,The Jimmy,8.3,521
+6,19,The Doodle,8.4,349
+6,2,The Big Salad,8.3,402
+6,2,The Fusilli Jerry,8.4,415
+6,21,The Diplomats Club,8.1,338
+6,22,The Face Painter,8.5,377
+6,23,The Understudy,8.2,381
+6,3,The Pledge Drive,8.2,395
+6,4,The Chinese Woman,8.3,370
+6,5,The Couch,8.5,365
+6,6,The Gymnast,8.4,377
+6,7,The Soup,8.3,378
+6,8,The Mom and Pop Store,8.2,374
+6,9,The Secretary,8.1,358
+7,1,The Engagement,8.5,388
+7,1,The Gum,8.5,449
+7,11,The Rye,8.7,398
+7,12,The Caddy,8.6,346
+7,13,The Seven,8.2,327
+7,14,The Cadillac,8.5,395
+7,15,The Shower Head,8.4,368
+7,16,The Doll,8.3,349
+7,17,The Friars Club,8,331
+7,18,The Wig Master,8.2,337
+7,19,The Calzone,8.5,416
+7,2,The Postponement,8.2,337
+7,2,The Bottle Deposit,8.7,413
+7,21,The Wait Out,8.4,342
+7,22,The Invitations,8.7,379
+7,3,The Maestro,8.1,379
+7,4,The Wink,8.7,413
+7,5,The Hot Tub,8.7,408
+7,6,The Soup Nazi,8.7,1105
+7,7,The Secret Code,8.2,368
+7,8,The Pool Guy,8.4,346
+7,9,The Sponge,8.5,381
+8,1,The Foundation,8.4,340
+8,1,The Andrea Doria,8.5,343
+8,11,The Little Jerry,8.5,383
+8,12,The Money,8,324
+8,13,The Comeback,8.7,428
+8,14,The Van Buren Boys,8.2,345
+8,15,The Susie,8.3,378
+8,16,The Pothole,8.6,383
+8,17,The English Patient,8.5,396
+8,18,The Nap,8.4,377
+8,19,The Yada Yada,8.4,514
+8,2,The Soul Mate,8.2,339
+8,2,The Millennium,8.2,351
+8,21,The Muffin Tops,8.5,392
+8,22,The Summer of George,8.6,413
+8,3,The Bizarro Jerry,8.4,542
+8,4,The Little Kicks,8.7,434
+8,5,The Package,8.6,340
+8,6,The Fatigues,8.3,326
+8,7,The Checks,8.4,349
+8,8,The Chicken Roaster,8.4,495
+8,9,The Abstinence,8.5,418
+9,1,The Butter Shave,8.6,425
+9,1,The Strike,8.6,484
+9,11,The Dealership,8.6,375
+9,12,The Reverse Peephole,8.5,363
+9,13,The Cartoon,8,360
+9,14,The Strongbox,8.1,349
+9,15,The Wizard,8.2,334
+9,16,The Burning,8.4,371
+9,17,The Bookstore,8.4,340
+9,18,The Frogger,8.4,468
+9,19,The Maid,7.9,350
+9,2,The Voice,8.6,422
+9,2,The Puerto Rican Day,8.2,407
+9,21,The Chronicle,8,313
+9,22,The Finale,8,676
+9,3,The Serenity Now,8.5,481
+9,4,The Blood,8.3,361
+9,5,The Junk Mail,8.4,353
+9,6,The Merv Griffin Show,8.5,549
+9,7,The Slicer,8.3,366
+9,8,The Betrayal,8.4,615
+9,9,The Apology,8.2,369
