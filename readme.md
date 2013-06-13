@@ -6,4 +6,4 @@ iris) are getting boring. This repository aims to fix that.
 ## Datasets
 
 - Seinfeld - Seinfeld Episodes, Seasons, IMDB ratings.
-  (Source)[http://www.reddit.com/r/dataisbeautiful/comments/1g7jw2/seinfeld_imdb_episode_ratings_oc/)
+  [Source](http://www.reddit.com/r/dataisbeautiful/comments/1g7jw2/seinfeld_imdb_episode_ratings_oc/)
