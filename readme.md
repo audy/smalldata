@@ -1,7 +1,6 @@
 # Small Data
 
-The default datasets commonly used for demos and teaching (cars, gems,
-iris) are getting boring. This repository aims to fix that.
+Collection of small (<10 mb) datasets for fun and teaching.
 
 ## Datasets
 
