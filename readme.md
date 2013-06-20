@@ -4,9 +4,9 @@ Collection of small (<10 mb) datasets for fun and teaching.
 
 ## Datasets
 
-- Seinfeld - Seinfeld Episodes, Seasons, IMDB ratings.
+- `seinfeld.csv` - Seinfeld Episodes, Seasons, IMDB ratings.
   [Source](http://www.reddit.com/r/dataisbeautiful/comments/1g7jw2/seinfeld_imdb_episode_ratings_oc/)
-- Smarties Count - Number of smarties by color from 21 boxes of
+- `smarties.csv` - Number of smarties by color from 21 boxes of
   smarties. Added by Yai Aou.
 
 ## Guidelines for Contributing
