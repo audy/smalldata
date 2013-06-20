@@ -10,3 +10,9 @@ iris) are getting boring. This repository aims to fix that.
 
 - Smarties Count - Number of smarties by color from 21 boxes of
   smarties. Added by Yai Aou.
+
+## Guidelines for Contributing
+
+1. Make a fork of this repo.
+2. Add your dataset (CSV format please).
+3. Submit a pull request.
