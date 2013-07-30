@@ -8,6 +8,7 @@ Collection of small (<10 mb) datasets for fun and teaching.
   [Source](http://www.reddit.com/r/dataisbeautiful/comments/1g7jw2/seinfeld_imdb_episode_ratings_oc/)
 - `smarties.csv` - Number of smarties by color from 21 boxes of
   smarties. Added by Yai Aou.
+- `sugars.csv` - US sugar consumption by type since 1966 taken from table 50 on [http://www.ers.usda.gov/data-products/sugar-and-sweeteners-yearbook-tables.aspx#.UfdBCmRxte5](this) website.
 
 ## Guidelines for Contributing
 
